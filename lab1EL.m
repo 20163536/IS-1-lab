@@ -1,3 +1,7 @@
+% Evald Liachovič
+% DISfm-20
+% 1 lab. darbas
+
 %Classification using perceptron
 
 %Reading apple images
